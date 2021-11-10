@@ -1,0 +1,892 @@
+{
+  "anarchies": [
+    {
+      "title": "000: [Index to the Anarchist Cookbook IV, ver. 4.14]",
+      "data": "000.txt"
+    },
+    {
+      "title": "000: COOKBOOK.IV:  Intro by Exodus",
+      "data": "000.txt"
+    },
+    {
+      "title": "001:  Counterfeiting Money",
+      "data": "001.txt"
+    },
+    {
+      "title": "002:  Credit Card Fraud",
+      "data": "002.txt"
+    },
+    {
+      "title": "003:  Making Plastic Explosives from Bleach",
+      "data": "003.txt"
+    },
+    {
+      "title": "004:  Picking Master Locks",
+      "data": "004.txt"
+    },
+    {
+      "title": "005:  The Arts of Lockpicking I",
+      "data": "005.txt"
+    },
+    {
+      "title": "006:  The Arts of Lockpicking II",
+      "data": "006.txt"
+    },
+    {
+      "title": "007:  Solidox Bombs",
+      "data": "007.txt"
+    },
+    {
+      "title": "008:  High Tech Revenge:  The Beigebox (NEW Revision 4.14)",
+      "data": "008.txt"
+    },
+    {
+      "title": "009:  CO2 Bombs",
+      "data": "009.txt"
+    },
+    {
+      "title": "010:  Thermite Bombs  (NEW Rivision, 4.14)",
+      "data": "010.txt"
+    },
+    {
+      "title": "011:  Touch Explosives",
+      "data": "011.txt"
+    },
+    {
+      "title": "012:  Letter Bombs",
+      "data": "012.txt"
+    },
+    {
+      "title": "013:  Paint Bombs",
+      "data": "013.txt"
+    },
+    {
+      "title": "014:  Ways to send a car to HELL",
+      "data": "014.txt"
+    },
+    {
+      "title": "015:  Do ya hate school?  (NEW Revision, 4.14)",
+      "data": "015.txt"
+    },
+    {
+      "title": "016:  Phone related vandalism",
+      "data": "016.txt"
+    },
+    {
+      "title": "017:  Highway police radar jamming",
+      "data": "017.txt"
+    },
+    {
+      "title": "018:  Smoke Bombs",
+      "data": "018.txt"
+    },
+    {
+      "title": "019:  Mail Box Bombs",
+      "data": "019.txt"
+    },
+    {
+      "title": "020:  Hotwiring cars",
+      "data": "020.txt"
+    },
+    {
+      "title": "021:  Napalm",
+      "data": "021.txt"
+    },
+    {
+      "title": "022:  Fertilizer Bomb",
+      "data": "022.txt"
+    },
+    {
+      "title": "023:  Tennis Ball Bomb",
+      "data": "023.txt"
+    },
+    {
+      "title": "024:  Diskette Bombs",
+      "data": "024.txt"
+    },
+    {
+      "title": "025:  Unlisted Phone Numbers  (NEW Revision, 4.14)",
+      "data": "025.txt"
+    },
+    {
+      "title": "026:  Fuses",
+      "data": "026.txt"
+    },
+    {
+      "title": "027:  How to make Potassium Nitrate",
+      "data": "027.txt"
+    },
+    {
+      "title": "028:  Exploding Lightbulbs",
+      "data": "028.txt"
+    },
+    {
+      "title": "029:  Under water igniters",
+      "data": "029.txt"
+    },
+    {
+      "title": "030:  Home-brew blast cannon",
+      "data": "030.txt"
+    },
+    {
+      "title": "031:  Chemical Equivalency List",
+      "data": "031.txt"
+    },
+    {
+      "title": "032:  Phone Taps",
+      "data": "032.txt"
+    },
+    {
+      "title": "033:  Landmines",
+      "data": "033.txt"
+    },
+    {
+      "title": "034:  A different kind of Molitov Cocktail",
+      "data": "034.txt"
+    },
+    {
+      "title": "035:  Phone Systems Tutorial I",
+      "data": "035.txt"
+    },
+    {
+      "title": "036:  Phone Systems Tutorial II",
+      "data": "036.txt"
+    },
+    {
+      "title": "037:  Basic Alliance Teleconferencing",
+      "data": "037.txt"
+    },
+    {
+      "title": "038:  Aqua Box Plans",
+      "data": "038.txt"
+    },
+    {
+      "title": "039:  Hindenberg Bomb",
+      "data": "039.txt"
+    },
+    {
+      "title": "040:  How to Kill Someone with your Bare Hands",
+      "data": "040.txt"
+    },
+    {
+      "title": "041:  Phone Systems Tutorial III",
+      "data": "041.txt"
+    },
+    {
+      "title": "042:  Black Box Plans",
+      "data": "042.txt"
+    },
+    {
+      "title": "043:  The Blotto Box",
+      "data": "043.txt"
+    },
+    {
+      "title": "044:  Blowgun",
+      "data": "044.txt"
+    },
+    {
+      "title": "045:  Brown Box Plans",
+      "data": "045.txt"
+    },
+    {
+      "title": "046:  Calcium Carbide Bomb",
+      "data": "046.txt"
+    },
+    {
+      "title": "047:  More Ways to Send a Car to Hell",
+      "data": "047.txt"
+    },
+    {
+      "title": "048:  Ripping off Change Machines  (NEW Revision, 4.14)",
+      "data": "048.txt"
+    },
+    {
+      "title": "049:  Clear Box Plans",
+      "data": "049.txt"
+    },
+    {
+      "title": "050:  CNA Number Listing",
+      "data": "050.txt"
+    },
+    {
+      "title": "051:  Electronic Terrorism",
+      "data": "051.txt"
+    },
+    {
+      "title": "052:  How to Start a Conference w/o 2600hz or M-F",
+      "data": "052.txt"
+    },
+    {
+      "title": "053:  Dynamite",
+      "data": "053.txt"
+    },
+    {
+      "title": "054:  Auto Exhaust Flame Thower",
+      "data": "054.txt"
+    },
+    {
+      "title": "055:  How to Break into BBS Express",
+      "data": "055.txt"
+    },
+    {
+      "title": "056:  Firebomb",
+      "data": "056.txt"
+    },
+    {
+      "title": "057:  Fuse Bomb",
+      "data": "057.txt"
+    },
+    {
+      "title": "058:  Generic Bomb",
+      "data": "058.txt"
+    },
+    {
+      "title": "059:  Green Box Plans",
+      "data": "059.txt"
+    },
+    {
+      "title": "060:  Portable Grenade Launcher",
+      "data": "060.txt"
+    },
+    {
+      "title": "061:  Basic Hacking Tutorial I",
+      "data": "061.txt"
+    },
+    {
+      "title": "062:  Basic Hacking Tutorial II",
+      "data": "062.txt"
+    },
+    {
+      "title": "063:  Hacking DEC\u0027s",
+      "data": "063.txt"
+    },
+    {
+      "title": "064:  Harmless Bombs",
+      "data": "064.txt"
+    },
+    {
+      "title": "065:  Breaking into Houses  (NEW Revision, 4.14)",
+      "data": "065.txt"
+    },
+    {
+      "title": "066:  Hypnotism",
+      "data": "066.txt"
+    },
+    {
+      "title": "067:  Remote Informer Issue #1",
+      "data": "067.txt"
+    },
+    {
+      "title": "068:  Jackpotting ATM Machines",
+      "data": "068.txt"
+    },
+    {
+      "title": "069:  Jug Bomb",
+      "data": "069.txt"
+    },
+    {
+      "title": "070:  Fun at K-Mart",
+      "data": "070.txt"
+    },
+    {
+      "title": "071:  Mace Substitute",
+      "data": "071.txt"
+    },
+    {
+      "title": "072:  How to Grow Marijuana",
+      "data": "072.txt"
+    },
+    {
+      "title": "073:  Match Head Bomb",
+      "data": "073.txt"
+    },
+    {
+      "title": "074:  Terrorizing McDonalds",
+      "data": "074.txt"
+    },
+    {
+      "title": "075:  \"Mentor\u0027s\" Last Words",
+      "data": "075.txt"
+    },
+    {
+      "title": "076:  The Myth of the 2600hz Detector",
+      "data": "076.txt"
+    },
+    {
+      "title": "077:  Blue Box Plans  (Ye\u0027 olde Favorite)",
+      "data": "077.txt"
+    },
+    {
+      "title": "078:  Napalm II",
+      "data": "078.txt"
+    },
+    {
+      "title": "079:  Nitroglycerin Recipe",
+      "data": "079.txt"
+    },
+    {
+      "title": "080:  Operation: Fuckup",
+      "data": "080.txt"
+    },
+    {
+      "title": "081:  Stealing Calls from Payphones",
+      "data": "081.txt"
+    },
+    {
+      "title": "082:  Pool Fun  (NEW Revision, 4.14)",
+      "data": "082.txt"
+    },
+    {
+      "title": "083:  Free Postage",
+      "data": "083.txt"
+    },
+    {
+      "title": "084:  Unstable Explosives",
+      "data": "084.txt"
+    },
+    {
+      "title": "085:  Weird Drugs",
+      "data": "085.txt"
+    },
+    {
+      "title": "086:  The Art of Carding",
+      "data": "086.txt"
+    },
+    {
+      "title": "087:  Recognizing Credit Cards",
+      "data": "087.txt"
+    },
+    {
+      "title": "088:  How to Get a New Identity",
+      "data": "088.txt"
+    },
+    {
+      "title": "089:  Remote Informer Issue #2",
+      "data": "089.txt"
+    },
+    {
+      "title": "090:  Remote Informer Issue #3",
+      "data": "090.txt"
+    },
+    {
+      "title": "091:  Remote Informer Issue #4",
+      "data": "091.txt"
+    },
+    {
+      "title": "092:  Remote Informer Issue #5",
+      "data": "092.txt"
+    },
+    {
+      "title": "093:  Phreaker\u0027s Guide to Loop Lines",
+      "data": "093.txt"
+    },
+    {
+      "title": "094:  Ma-Bell Tutorial",
+      "data": "094.txt"
+    },
+    {
+      "title": "095:  Getting Money out of Pay Phones",
+      "data": "095.txt"
+    },
+    {
+      "title": "096:  Computer-based PBX",
+      "data": "096.txt"
+    },
+    {
+      "title": "097:  PC-Pursuit Port Statistics",
+      "data": "097.txt"
+    },
+    {
+      "title": "098:  Pearl Box Plans",
+      "data": "098.txt"
+    },
+    {
+      "title": "099:  The Phreak File",
+      "data": "099.txt"
+    },
+    {
+      "title": "100:  Red Box Plans",
+      "data": "100.txt"
+    },
+    {
+      "title": "101:  RemObs",
+      "data": "101.txt"
+    },
+    {
+      "title": "102:  Scarlet Box Plans",
+      "data": "102.txt"
+    },
+    {
+      "title": "103:  Silver Box Plans",
+      "data": "103.txt"
+    },
+    {
+      "title": "104:  Bell Trashing",
+      "data": "104.txt"
+    },
+    {
+      "title": "105:  Canadian WATS Phonebook",
+      "data": "105.txt"
+    },
+    {
+      "title": "106:  Hacking TRW",
+      "data": "106.txt"
+    },
+    {
+      "title": "107:  Hacking VAX \u0026 UNIX",
+      "data": "107.txt"
+    },
+    {
+      "title": "108:  Verification Circuits",
+      "data": "108.txt"
+    },
+    {
+      "title": "109:  White Box Plans",
+      "data": "109.txt"
+    },
+    {
+      "title": "110:  The BLAST Box",
+      "data": "110.txt"
+    },
+    {
+      "title": "111:  Dealing with the Rate \u0026 Route Operator",
+      "data": "111.txt"
+    },
+    {
+      "title": "112:  Cellular Phone Phreaking",
+      "data": "112.txt"
+    },
+    {
+      "title": "113:  Cheesebox Plans",
+      "data": "113.txt"
+    },
+    {
+      "title": "114:  How to Start Your Own Conferences",
+      "data": "114.txt"
+    },
+    {
+      "title": "115:  Gold Box Plans",
+      "data": "115.txt"
+    },
+    {
+      "title": "116:  The History of ESS",
+      "data": "116.txt"
+    },
+    {
+      "title": "117:  The Lunch Box",
+      "data": "117.txt"
+    },
+    {
+      "title": "118:  Olive Box Plans",
+      "data": "118.txt"
+    },
+    {
+      "title": "119:  The Tron Box",
+      "data": "119.txt"
+    },
+    {
+      "title": "120:  More TRW Info",
+      "data": "120.txt"
+    },
+    {
+      "title": "121:  \"Phreaker\u0027s Phunhouse\"",
+      "data": "121.txt"
+    },
+    {
+      "title": "122:  Phrack Magazine - Vol. 3, Issue 27 (Intro to MIDNET)",
+      "data": "122.txt"
+    },
+    {
+      "title": "123:  Phrack Magazine - Vol. 3, Issue 27 (The Making of a Hacker)",
+      "data": "123.txt"
+    },
+    {
+      "title": "124:  Phrack Magazine - Vol. 3, Issue 28 (Network Miscellany)}",
+      "data": "124.txt"
+    },
+    {
+      "title": "125:  Phrack Magazine - Vol. 3, Issue 28 (Pearl Box Schematic)",
+      "data": "125.txt"
+    },
+    {
+      "title": "126:  Phrack Magazine - Vol. 3, Issue 28 (Snarfing Remote Files)",
+      "data": "126.txt"
+    },
+    {
+      "title": "127:  Phrack Magazine - Vol. 3, Issue 30 (Western Union, Telex, Time Service)",
+      "data": "127.txt"
+    },
+    {
+      "title": "128:  Phrack Magazine - Vol. 3, Issue 30 (Hacking \u0026 Tymnet)",
+      "data": "128.txt"
+    },
+    {
+      "title": "129:  Phrack Magazine - Vol. 3, Issue 30 (The DECWRL Mail Gateway) ",
+      "data": "129.txt"
+    },
+    {
+      "title": "130:  Sodium Chlorate",
+      "data": "130.txt"
+    },
+    {
+      "title": "131:  Mercury Fulminate",
+      "data": "131.txt"
+    },
+    {
+      "title": "132:  Improvised Black Powder",
+      "data": "132.txt"
+    },
+    {
+      "title": "133:  Nitric Acid",
+      "data": "133.txt"
+    },
+    {
+      "title": "134:  Dust Bomb Instructions",
+      "data": "134.txt"
+    },
+    {
+      "title": "135:  Carbon-Tet Explosive",
+      "data": "135.txt"
+    },
+    {
+      "title": "136:  Making Picric Acid from Aspirin",
+      "data": "136.txt"
+    },
+    {
+      "title": "137:  Reclamation of RDX from C-4 Explosives",
+      "data": "137.txt"
+    },
+    {
+      "title": "138:  Egg-based Gelled Flame Fuels",
+      "data": "138.txt"
+    },
+    {
+      "title": "139:  Clothespin Switch",
+      "data": "139.txt"
+    },
+    {
+      "title": "140:  Flexible Plate Switch",
+      "data": "140.txt"
+    },
+    {
+      "title": "141:  Low Signature Systems (Silencers)",
+      "data": "141.txt"
+    },
+    {
+      "title": "142:  Delay Igniter From Cigarette",
+      "data": "142.txt"
+    },
+    {
+      "title": "143:  Nicotine",
+      "data": "143.txt"
+    },
+    {
+      "title": "144:  Dried Seed Timer",
+      "data": "144.txt"
+    },
+    {
+      "title": "145:  Nail Grenade",
+      "data": "145.txt"
+    },
+    {
+      "title": "146:  Bell Glossary",
+      "data": "146.txt"
+    },
+    {
+      "title": "147:  Phone Dial Locks -- How to Beat\u0027em",
+      "data": "147.txt"
+    },
+    {
+      "title": "148:  Exchange Scanning",
+      "data": "148.txt"
+    },
+    {
+      "title": "149:  A Short History of Phreaking",
+      "data": "149.txt"
+    },
+    {
+      "title": "150:  \"Secrets of the Little Blue Box\" (story)",
+      "data": "150.txt"
+    },
+    {
+      "title": "151:  The History of British Phreaking",
+      "data": "151.txt"
+    },
+    {
+      "title": "152:  \"Bad as Shit\" (story)",
+      "data": "152.txt"
+    },
+    {
+      "title": "153:  Telenet",
+      "data": "153.txt"
+    },
+    {
+      "title": "154:  Fucking with the Operator",
+      "data": "154.txt"
+    },
+    {
+      "title": "155:  Phrack Magazine - Vol. 1, Issue 1 (The Phone Preak\u0027s Fry-Um Guide)",
+      "data": "155.txt"
+    },
+    {
+      "title": "156:  International Country Code Listing",
+      "data": "156.txt"
+    },
+    {
+      "title": "157:  Infinity Transmitter Schematic and Plans",
+      "data": "157.txt"
+    },
+    {
+      "title": "158:  LSD",
+      "data": "158.txt"
+    },
+    {
+      "title": "159:  Bananas",
+      "data": "159.txt"
+    },
+    {
+      "title": "160:  Yummy Marihuana Recipes",
+      "data": "160.txt"
+    },
+    {
+      "title": "161:  Peanuts",
+      "data": "161.txt"
+    },
+    {
+      "title": "162:  Chemical Fire Bottle",
+      "data": "162.txt"
+    },
+    {
+      "title": "163:  Igniter from Book Matches",
+      "data": "163.txt"
+    },
+    {
+      "title": "164:  \"Red or White Powder\" Propellant",
+      "data": "164.txt"
+    },
+    {
+      "title": "165:  Pipe Hand Grenade",
+      "data": "165.txt"
+    },
+    {
+      "title": "166:  European Credit Card Fraud (Written by Creditman! A )",
+      "data": "166.txt"
+    },
+    {
+      "title": "167:  Potassium Bomb",
+      "data": "167.txt"
+    },
+    {
+      "title": "168:  Your Legal Rights (For adults, or some of us think we are)",
+      "data": "168.txt"
+    },
+    {
+      "title": "169:  Juvenile Offenders\u0027 Rights",
+      "data": "169.txt"
+    },
+    {
+      "title": "170:  Down The Road Missle",
+      "data": "170.txt"
+    },
+    {
+      "title": "171:  Fun With ShotGunn Shells",
+      "data": "171.txt"
+    },
+    {
+      "title": "172:  Surveillance Equipment",
+      "data": "172.txt"
+    },
+    {
+      "title": "173:  Drip Timer",
+      "data": "173.txt"
+    },
+    {
+      "title": "174:  Stealing",
+      "data": "174.txt"
+    },
+    {
+      "title": "175:  Miscellaneous ",
+      "data": "175.txt"
+    },
+    {
+      "title": "176:  Shaving cream bomb",
+      "data": "176.txt"
+    },
+    {
+      "title": "177:  Ripping off change machines 2",
+      "data": "177.txt"
+    },
+    {
+      "title": "178:  Lockpicking the EASY way",
+      "data": "178.txt"
+    },
+    {
+      "title": "179:  Anarchy \u0027N\u0027 Explosives Prelude",
+      "data": "179.txt"
+    },
+    {
+      "title": "180:  Anarchy \u0027N\u0027 Explosives Vol. 1",
+      "data": "180.txt"
+    },
+    {
+      "title": "181:  Anarchy \u0027N\u0027 Explosives Vol. 2",
+      "data": "181.txt"
+    },
+    {
+      "title": "182:  Anarchy \u0027N\u0027 Explosives Vol. 3",
+      "data": "182.txt"
+    },
+    {
+      "title": "183:  Anarchy \u0027N\u0027 Explosives Vol. 4",
+      "data": "183.txt"
+    },
+    {
+      "title": "184:  Anarchy \u0027N\u0027 Explosives Vol. 5",
+      "data": "184.txt"
+    },
+    {
+      "title": "185:  Explosives and Propellants",
+      "data": "185.txt"
+    },
+    {
+      "title": "186:  Lockpicking 3",
+      "data": "186.txt"
+    },
+    {
+      "title": "187:  Chemical Equivalent List 2",
+      "data": "187.txt"
+    },
+    {
+      "title": "188:  Nitroglycerin 2",
+      "data": "188.txt"
+    },
+    {
+      "title": "189:  Cellulose Nitrate",
+      "data": "189.txt"
+    },
+    {
+      "title": "190:  Starter Explosives",
+      "data": "190.txt"
+    },
+    {
+      "title": "191:  Flash Powder",
+      "data": "191.txt"
+    },
+    {
+      "title": "192:  Exploding Pens",
+      "data": "192.txt"
+    },
+    {
+      "title": "193:  Revised Pipe Bombs 4.14",
+      "data": "193.txt"
+    },
+    {
+      "title": "194:  * SAFETY *  A MUST READ!",
+      "data": "194.txt"
+    },
+    {
+      "title": "195:  Ammonium TriIodide",
+      "data": "195.txt"
+    },
+    {
+      "title": "196:  Sulfuric Acid / Ammonium Nitrate III",
+      "data": "196.txt"
+    },
+    {
+      "title": "198:  Black Powder 3",
+      "data": "198.txt"
+    },
+    {
+      "title": "198:  Nitrocellulose",
+      "data": "198.txt"
+    },
+    {
+      "title": "199:  R.D.X. (Revised 4.14)",
+      "data": "199.txt"
+    },
+    {
+      "title": "200:  The Black Gate BBS",
+      "data": "200.txt"
+    },
+    {
+      "title": "201:  ANFOS",
+      "data": "201.txt"
+    },
+    {
+      "title": "202:  Picric Acid 2",
+      "data": "202.txt"
+    },
+    {
+      "title": "203:  Bottled Explosives",
+      "data": "203.txt"
+    },
+    {
+      "title": "204:  Dry Ice",
+      "data": "204.txt"
+    },
+    {
+      "title": "205:  Fuses / Ignitors / Delays",
+      "data": "205.txt"
+    },
+    {
+      "title": "206:  Film Canister Bombs",
+      "data": "206.txt"
+    },
+    {
+      "title": "207:  Book Bombs",
+      "data": "207.txt"
+    },
+    {
+      "title": "208:  Phone Bombs",
+      "data": "208.txt"
+    },
+    {
+      "title": "209:  Special Ammunition",
+      "data": "209.txt"
+    },
+    {
+      "title": "210:  Rocketry",
+      "data": "210.txt"
+    },
+    {
+      "title": "211:  Pipe Cannon 2",
+      "data": "211.txt"
+    },
+    {
+      "title": "212:  Smoke Bombs 4.14",
+      "data": "212.txt"
+    },
+    {
+      "title": "213:  Firecrackers",
+      "data": "213.txt"
+    },
+    {
+      "title": "214:  Suppliers II",
+      "data": "214.txt"
+    },
+    {
+      "title": "215:  Lab-Raid Checklist",
+      "data": "215.txt"
+    },
+    {
+      "title": "216:  Misc. Anarchy",
+      "data": "216.txt"
+    },
+    {
+      "title": "217:  LockPicking 4",
+      "data": "217.txt"
+    },
+    {
+      "title": "218:  Misc. Anarchy II",
+      "data": "218.txt"
+    },
+    {
+      "title": "219:  -* THERMITE 4 *- \u003c-- The BEST rev. to 4.14",
+      "data": "219.txt"
+    },
+    {
+      "title": "220:  Conclusion",
+      "data": "220.txt"
+    }
+  ]
+}
