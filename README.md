@@ -1,9 +1,19 @@
 # AnarchistCookbook
 Many dangerous and illegall stuff.
 
-# Notice
-This repo contains things that are illegall and dangerous. i will not take any responsibility 
-of the damage you make by the contents provided.
+# Legal Disclaimer
+This repo contains things that are illegall and dangerous.
+
+No warranties, promises and/or representations of any kind, expressed or implied, are given as to the nature,
+standard, accuracy or otherwise of the information provided in this repo nor to the suitability or
+otherwise of the information to your particular circumstances.
+
+I shall not be liable for any loss or damage of whatever nature (direct, indirect, consequential, or other)
+whether arising in contract, tort or otherwise, which may arise as a result of your use of (or inability to use)
+this website, or from your use of (or failure to use) the information on this repo. I cannot and do not take 
+responsibility for the collection or use of personal data from any third party site. In addition, I will not accept
+responsibility for the accuracy of third party advertisements.
+
 
 # MIT License (MIT)
 
