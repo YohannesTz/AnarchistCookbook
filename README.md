@@ -1,5 +1,5 @@
 # AnarchistCookbook
-Many dangerous and illegall probably stuff.
+Many dangerous and probably illegall stuff.
 
 # Legal Disclaimer
 This repo contains things that are illegall and dangerous.
